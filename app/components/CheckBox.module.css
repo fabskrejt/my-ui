@@ -1,0 +1,32 @@
+.checkbox {
+  border-radius: 50%;
+}
+
+.small {
+  font-size: 10px;
+}
+
+.small input {
+  width: 20px;
+  height: 20px;
+}
+
+
+.medium {
+  font-size: 20px;
+}
+
+.medium input {
+  width: 25px;
+  height: 25px;
+}
+
+.large {
+  font-size: 25px;
+  
+}
+
+.large input {
+  width: 30px;
+  height: 30px;
+}
